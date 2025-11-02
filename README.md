@@ -13,7 +13,7 @@ The following improvements are being made to release an initial beta-version of 
 
 Once these improvements are made and SubArc properly functions embedded on precision machinery technology, SubArc will release into its V1 beta version and this repository will be linked and popularized.
 
-If you would like to build your own SubArc and need assistance, or you would like to collaborate on speeding up the development to the initial beta-version, feel free to contact me at: franklucci636@gmail.com
+If you would like to build your own alpha version SubArc and need assistance, or you would like to collaborate on speeding up the development to the initial V1 beta version, feel free to contact me at: franklucci636@gmail.com
 
 This work is provisional-patent protected to ensure no one attempts to patent and close source this encoder. All current and future work will continue to be open source under the MIT license.
 
