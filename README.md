@@ -9,7 +9,7 @@ The following improvements are being made to release an initial beta-version of 
 1) Fix occasional accuracy spike bugs
 2) Increase position calibration file search algorithm efficiency
 3) Increase sampling rate to 5000 Hz with updated hall sensor array
-4) Create through-bore version to easy mounting on machinery
+4) Create through-bore version for easy mounting on machinery
 
 Once these improvements are made and SubArc properly functions embedded on precision machinery technology, SubArc will release into its V1 beta version and this repository will be linked and popularized.
 
